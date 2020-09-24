@@ -1,0 +1,13 @@
+{
+    "name": "Deploy to Cloudhub",
+    "description": "Deploy to Cloudhub workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Mule"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
